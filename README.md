@@ -1,8 +1,17 @@
 # 603
 This repository contains the project and technical paper for the semester-long course "Big Data Processing" (603). The course focuses on advanced techniques and tools for processing and analyzing large-scale datasets, with an emphasis on real-world applications and industry-relevant skills.
 
-# **Project Description**
+# **Project**
 ## Title :
+Dog Breed Classification
+
+## **Discription**:
+
+The aim of this project is to develop an image classification system for automatically
+identifying and categorizing dog breeds. The system intends to assist pet owners in finding
+dogs that match their interests and lifestyle, thereby facilitating successful adoptions.
+Additionally, the project aims to enhance medical care and treatments by providing
+veterinarians with insights into the characteristics of different dog breeds.
 
 
 
