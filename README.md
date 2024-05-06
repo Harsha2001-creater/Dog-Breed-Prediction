@@ -26,6 +26,7 @@ Utilizing the Stanford Dogs dataset containing images of 120 breeds of dogs from
 - **Development Environment:** Google Colab
 - **Data Manipulation and Analysis:** Pandas, PySpark
 - **Machine Learning Frameworks:** TensorFlow, Keras
+- **Data Base:** Mongo DB
 
 
 ## 🚀 Expected Results and Project Objectives
