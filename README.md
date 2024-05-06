@@ -57,7 +57,6 @@ Utilizing the Stanford Dogs dataset containing images of 120 breeds of dogs from
 4. Analyze the data to identify patterns, trends, and factors contributing to flight delays.
 5. Develop predictive models to forecast flight delays using machine learning algorithms.
 6. Store processed data and model outputs in MongoDB for future reference.
-7. Visualize insights and predictions using Power BI to create interactive dashboards and reports.
 
 ## 🌟 Conclusion
 
