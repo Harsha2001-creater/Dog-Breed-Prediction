@@ -39,6 +39,14 @@ You can access the dataset directly from the following link: Stanford Dogs Datas
 * Evaluation and Fine-tuning: 🔍 2 weeks
 * Documentation and Presentation: 📝 1 week
 
+## Interface 🖥️
+
+Check out the user interface of our Dog Breed Prediction Project:
+
+![Dog Breed Prediction Interface](https://github.com/Harsha2001-creater/603/blob/main/Interface/website.png)
+
+This interface provides users with a seamless experience for predicting dog breeds from images. 
+
 
 ## 📁 GitHub Repository
 
