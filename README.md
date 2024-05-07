@@ -13,7 +13,7 @@ This project aims to address the need for accurate and efficient dog breed ident
 ## 📊 Dataset 
 For this project, we utilized a comprehensive dataset sourced from Kaggle, specifically the Stanford Dogs dataset. This dataset contains a vast collection of images encompassing 120 different breeds of dogs from around the world. With a size of approximately 20GB, the dataset provides a rich and diverse source of imagery for training and evaluating our machine learning models.
 
-You can access the dataset directly from the following link: Stanford Dogs Dataset
+You can access the dataset directly from the following link: [Data Set](https://www.kaggle.com/datasets/enashed/dog-breed-photos)
 
 
 ## 🛠️ Tools Used
