@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://images.pexels.com/photos/612813/pexels-photo-612813.jpeg?auto=compress&cs=tinysrgb&w=90%&h=200&dpr=2" alt="Second Image">
+</p>
 
 <h1 align="center">Dog Breed Prediction Project 🐾🐶</h1>
 Welcome to our Dog Breed Prediction Project! This project aims to develop a machine learning model capable of accurately predicting dog breeds from images. By leveraging convolutional neural networks (CNNs), we seek to contribute to conservation efforts by providing a reliable tool for identifying dog breeds and preserving genetic diversity within dog populations.  
