@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://images.pexels.com/photos/612813/pexels-photo-612813.jpeg?auto=compress&cs=tinysrgb&w=90%&h=200&dpr=2" alt="Second Image">
+</p>
 
 <h1 align="center">Dog Breed Prediction Project 🐾🐶</h1>
 Welcome to our Dog Breed Prediction Project! This project aims to develop a machine learning model capable of accurately predicting dog breeds from images. By leveraging convolutional neural networks (CNNs), we seek to contribute to conservation efforts by providing a reliable tool for identifying dog breeds and preserving genetic diversity within dog populations.  
@@ -13,7 +16,7 @@ This project aims to address the need for accurate and efficient dog breed ident
 ## 📊 Dataset 
 For this project, we utilized a comprehensive dataset sourced from Kaggle, specifically the Stanford Dogs dataset. This dataset contains a vast collection of images encompassing 120 different breeds of dogs from around the world. With a size of approximately 20GB, the dataset provides a rich and diverse source of imagery for training and evaluating our machine learning models.
 
-You can access the dataset directly from the following link: Stanford Dogs Dataset
+You can access the dataset directly from the following link: [Data Set](https://www.kaggle.com/datasets/enashed/dog-breed-photos)
 
 
 ## 🛠️ Tools Used
